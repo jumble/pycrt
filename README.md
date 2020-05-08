@@ -1,6 +1,6 @@
 # PyCRT 
 
-A demo of a CR beamsweep emulation. Pretty cursory atm.
+An unoptimized CR beamsweep emulation.
 
 ## to use 
  - install all the requirements (`pip install -f requirements.txt`, in a virtualenv or not, i'm not your dad)
